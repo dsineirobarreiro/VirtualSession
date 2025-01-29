@@ -1,6 +1,8 @@
 # Unity Virtual Sessions Package
 
-Unity package for creating virtual session games
+Unity package for creating virtual session games.
+
+**Avaliable on Asset Store**: https://assetstore.unity.com/packages/slug/309268
 
 ## Overview
 This Unity package provides a set of customizable prefabs and scripts designed to facilitate virtual sessions. It includes:
