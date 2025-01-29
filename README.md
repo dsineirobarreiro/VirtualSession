@@ -11,8 +11,8 @@ This Unity package provides a set of customizable prefabs and scripts designed t
 
 ## Installation
 There are 3 different ways of adding the package to your project:
-- import [VirtualSession.unitypackage]() via _Assets-Import Package_
-- clone/download this repository and move the root folder to your Unity project's Assets folder
+- import [VirtualSession.unitypackage](https://github.com/dsineirobarreiro/VirtualSession/releases/download/v1.0.0/VirtualSession.unitypackage) via _Assets-Import Package_
+- clone/[download](https://github.com/dsineirobarreiro/VirtualSession/archive/refs/tags/v1.0.0.zip) this repository and move the root folder to your Unity project's Assets folder
 - import it from [Asset Store](https://assetstore.unity.com/packages/slug/309268)
 
 ## Usage
