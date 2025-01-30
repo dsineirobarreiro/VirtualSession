@@ -28,7 +28,7 @@ To use these two prefabs, make sure that they are included in the _Network Prefa
 _Session.prefab_ is instantiated from the _SessionManager.cs_, so be sure to indicate the path where the prefab is located.
 
 ### Demo Scene
-A sample scene is included to demonstrate a basic implementation. Open it via `Assets/Scenes/DemoScene` to explore.
+A sample scene is included to demonstrate a basic implementation. Open it via `VirtualSession/DemoScene` to explore.
 
 ## Scripts Documentation
 ### `SessionManager.cs`
