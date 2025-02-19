@@ -3,6 +3,7 @@
 Unity package for creating virtual session games.
 
 **Avaliable on Asset Store**: https://assetstore.unity.com/packages/slug/309268
+**Forum thread**: https://discussions.unity.com/t/virtual-session-manager-open-source/1603167
 
 ## Overview
 This Unity package provides a set of customizable prefabs and scripts designed to facilitate virtual sessions. It includes:
